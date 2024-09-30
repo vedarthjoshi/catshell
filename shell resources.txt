@@ -1,0 +1,30 @@
+shell resources
+
+header or include
+https://youtu.be/0TCh01BBlrM?si=OxwsMzLaH7J8SMj6
+
+Win32 API for all the work
+https://learn.microsoft.com/en-us/windows/console/console-functions
+
+SWITCH CAN"T USE THE DAMN STRING IN C++
+https://stackoverflow.com/questions/650162/why-cant-the-switch-statement-be-applied-to-strings?noredirect=1&lq=1
+
+system() can't take string but char*
+https://stackoverflow.com/questions/13294067/how-to-convert-string-to-char-array-in-c
+
+const over #define for colors
+https://stackoverflow.com/questions/6442328/what-is-the-difference-between-define-and-const
+
+windows api functions:
+
+getcurrentdirectory()
+https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-getcurrentdirectory
+
+windows os version
+https://learn.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getversion
+
+ls
+https://stackoverflow.com/questions/69287136/how-to-make-a-c-program-and-will-use-the-command-line-input-and-ls-in-that-dir
+but
+chatgpt better more depth
+
