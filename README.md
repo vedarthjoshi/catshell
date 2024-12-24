@@ -1,7 +1,6 @@
 # catshell
-## A Simple shell made for windows natively Written in C++
-
-# download here [catshell.exe](https://github.com/vedarthjoshi/catshell/releases/tag/v0.1)
+A Simple shell made for windows natively Written in C++
+Release: [catshell.exe](https://github.com/vedarthjoshi/catshell/releases/tag/v0.1)
 
 Built Using Win32 Api
 
